@@ -1,14 +1,9 @@
-# Liri-Node-App-
+LIRI Bot
+Assignment
+Create a CLI App "LIRI" bot which stands for Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-This assignment focused on making LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+Solution
+The solution was to use "backend" technologies only. Node.js was used along with NPM (Node Package Manager) libraries in order to accomplish the tasks. There is no front end to this application, therefore this is no html page to publish.
 
-
-1. Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
-2. Give a high-level overview of how the app is organized
-3. Give start-to-finish instructions on how to run the app
-4. Include screenshots, gifs or videos of the app functioning
-5. Contain a link to a deployed version of the app
-6. Clearly list the technologies used in the app
-7. State your role in the app development
-
-Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading in this assignment.
+Technologies
+JavaScript, Node.js, Request library, Spotify API, dateFormat library, File system library
