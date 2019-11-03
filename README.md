@@ -6,4 +6,4 @@ Create a CLI App "LIRI" bot which stands for Language Interpretation and Recogni
 The solution was to use "backend" technologies only. Node.js was used along with NPM (Node Package Manager) libraries in order to accomplish the tasks. There is no front end to this application, therefore this is no html page to publish.
 
 ## Technologies
-- JavaScript, Node.js, Request library, Spotify API, dateFormat library, File system library
+- JavaScript, Node.js, Axios, Spotify API, Moment, DotEnv, OMDB API
