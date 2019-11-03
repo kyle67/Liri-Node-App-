@@ -1,5 +1,5 @@
-LIRI Bot
-Assignment
+LIRI Bot Assignment
+
 Create a CLI App "LIRI" bot which stands for Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 Solution
