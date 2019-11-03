@@ -1,3 +1,9 @@
-# Liri-Node-App-
+# LIRI Bot Assignment
 
-Thsi assngment focused on making LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+Create a CLI App "LIRI" bot which stands for Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+
+## Solution
+The solution was to use "backend" technologies only. Node.js was used along with NPM (Node Package Manager) libraries in order to accomplish the tasks. There is no front end to this application, therefore this is no html page to publish.
+
+## Technologies
+- JavaScript, Node.js, Axios, Spotify API, Moment, DotEnv, OMDB API
