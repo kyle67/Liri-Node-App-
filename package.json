@@ -1,0 +1,23 @@
+{
+  "name": "Liri-Node-App-",
+  "version": "1.0.0",
+  "description": "Thsi assngment focused on making LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle67/Liri-Node-App-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle67/Liri-Node-App-/issues"
+  },
+  "homepage": "https://github.com/kyle67/Liri-Node-App-#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.1.1"
+  }
+}
