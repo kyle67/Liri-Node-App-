@@ -1,6 +1,6 @@
-console.log('this is loaded');
-
+console.log('Here you go Kyle');
+// Holds my spotify keys
 exports.spotify ={
-    id:process.env.SPOTIFY_ID,
-    secret:process.env.SPOTIFY_SECRET
+    id: process.env.SPOTIFY_ID,
+    secret: process.env.SPOTIFY_SECRET
 };
