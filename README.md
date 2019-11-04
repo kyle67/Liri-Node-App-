@@ -7,3 +7,8 @@ The solution was to use "backend" technologies only. Node.js was used along with
 
 ## Technologies
 - JavaScript, Node.js, Axios, Spotify API, Moment, DotEnv, OMDB API
+
+# LIRI Demo 
+
+(https://github.com/kyle67/Liri-Node-App-/blob/master/screenschot/Screen%20Shot%202019-11-03%20at%2010.32.43%20PM.png)
+
