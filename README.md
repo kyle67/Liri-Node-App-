@@ -10,5 +10,6 @@ The solution was to use "backend" technologies only. Node.js was used along with
 
 # LIRI Demo 
 
-(https://github.com/kyle67/Liri-Node-App-/blob/master/screenschot/Screen%20Shot%202019-11-03%20at%2010.32.43%20PM.png)
+![Liri Screenshot](https://github.com/kyle67/Liri-Node-App-/blob/master/screenschot/Screen%20Shot%202019-11-03%20at%2010.32.43%20PM.png)
+
 
